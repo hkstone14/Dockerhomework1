@@ -1,1 +1,2 @@
-# Dockerhomework1
+## Barcode Output
+![](./images/BarcodeOutput.PNG)
